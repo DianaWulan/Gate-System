@@ -1,0 +1,2 @@
+ini file dari contributor lain
+mencoba melakukan pull request
