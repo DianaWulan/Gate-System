@@ -1,0 +1,14 @@
+# git status
+buat liat file yg udh terhubung dengan github remote
+
+# git add . 
+menambahkan semua file yg baru di buat ke github remote
+
+# git commit -m "pesan baru" 
+untuk menandakan file baru yg ditambahkan ke github remote
+
+# git push origin 
+untuk menyimpan file yg sudah disimpan ke github remote ke repositori github
+
+# git pull origin
+untuk mengupdate github local dengan github repositori jika ada perubahan
